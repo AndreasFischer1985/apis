@@ -297,6 +297,14 @@
     "pypiURL": "https://pypi.org/project/de-rigoletto"
   },
   {
+    "name": "Rigoletto API",
+    "office": "Umweltbundesamt",
+    "description": "rigoletto app api",
+    "documentationURL": "https://rigoletto.uba.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/rigoletto-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/rigoletto-api/main/openapi.yaml"
+  },
+  {
     "name": "Corona Risikogebiete API",
     "office": "Robert Koch Institut",
     "description": "Aktuelle Corona Risikogebietsinformationen als API.",
