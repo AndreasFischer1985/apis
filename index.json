@@ -117,6 +117,14 @@
     "pypiURL": null
   },
   {
+    "name": "Deutschlandatlas-API",
+    "description": "API zum Deutschlandatalas",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/deutschlandatlas-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/deutschlandatlas-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-Deutschlandatlas"
+  },
+  {
     "name": "DiGA API",
     "office": "Bundesinstitut für Arzneimittel und Medizinprodukte",
     "description": "API zum DiGA-Verzeichnis https://diga.bfarm.de/de/ ",
@@ -288,13 +296,12 @@
     "pypiURL": "https://pypi.org/project/de-polizei-brandenburg"
   },
   {
-    "name": "Rigoletto API",
-    "office": "Umweltbundesamt",
-    "description": "rigoletto app api",
-    "documentationURL": "https://rigoletto.uba.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/rigoletto-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/rigoletto-api/main/openapi.yaml",
-    "pypiURL": "https://pypi.org/project/de-rigoletto"
+    "name": "Regionalatlas-API",
+    "description": "API zum Regionalatlas Deutschland der statistischen Ämter des Bundes und der Länder.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/regionalatlas-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/regionalatlas-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-Regionalatlas"
   },
   {
     "name": "Rigoletto API",
@@ -302,7 +309,8 @@
     "description": "rigoletto app api",
     "documentationURL": "https://rigoletto.uba.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/rigoletto-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/rigoletto-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/rigoletto-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-rigoletto"
   },
   {
     "name": "Corona Risikogebiete API",
